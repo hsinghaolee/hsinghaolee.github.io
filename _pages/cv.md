@@ -25,7 +25,7 @@ Publications
 3.	**Lee, H. H.**, Chien, S. E., Lin, V., & Yeh, S. L. (2022). Seeing food fast and slow: Arousing pictures and words have reverse priorities in assessing awareness. Cognition, 225, 105144. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2022.pdf)
 4.	**Lee, H. H.**, Chen. Z. L., Yeh, S. L., Hsiao, J. H., & Wu, A. Y. (2021). When eyes wander around: Mind-wandering as revealed by eye movement analysis with hidden Markov models. Sensors, 21, 7569. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2021.pdf)
 5.	**Lee, H. H.**, Tu, Y. C., & Yeh, S. L. (2021) In search of blue-light effects on cognitive control. Scientific Reports, 11, 15505. [PDF](http://hsinghaolee.github.io/files/Lee_Tu_Yeh_2021.pdf)
-6.	**Lee, H. H.**, & Yeh, S. L. (2021). Blue-light effects on saccadic eye movements and attentional disengagement. Attention, Perception, & Psychophysics. 83, 1713-1728.[PDF](http://hsinghaolee.github.io/files/Lee&Yeh_2021.pdf)
+6.	**Lee, H. H.**, & Yeh, S. L. (2021). Blue-light effects on saccadic eye movements and attentional disengagement. Attention, Perception, & Psychophysics. 83, 1713-1728. [PDF](http://hsinghaolee.github.io/files/Lee&Yeh_2021.pdf)
 7.	Chien, S. E., Chu, L., **Lee, H. H.**, Yang, C. C., Lin, F. H., Yang, P. L., Wang, T. M., & Yeh, S. L. (2019). Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots. ACM Transactions on Human-Robot Interaction (THRI), 8(2):9. [PDF](http://hsinghaolee.github.io/files/Chien_etal_2019.pdf)
 8.	**Lee, H. H.**, & Hsieh, S. (2017). Resting-state fMRI associated with stop-signal task performance in healthy middle-aged and elderly people. Frontiers in Psychology, 8:766. [PDF](http://hsinghaolee.github.io/files/Lee&Hsieh_2017.pdf)
 

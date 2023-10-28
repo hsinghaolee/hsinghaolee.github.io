@@ -20,7 +20,7 @@ Manuscripts in preparation
 
 
 
-Manuscripts and Publications
+Publications
 ======
 1.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (preprint). Do exogenous attention and adaptation interact in early visual cortex?
 2.	Chen, Y. T., **Lee, H. H.**, Shih, C. Y., Chen, Z. L., Beh, W. K., Yeh, S. L., & Wu, A. Y. (2022). An effective entropy-assisted mind-wandering detection system with EEG signals of MM-SART Database. IEEE Journal of Biomedical and Health Informatics, 26(8), 3649-3660. [PDF](http://hsinghaolee.github.io/files/Chen_etal_2022.pdf)

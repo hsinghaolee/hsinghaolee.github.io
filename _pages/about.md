@@ -14,4 +14,3 @@ My primary research interests are visual attention, consciouesness, and cognitiv
 Before joining NYU, I worked with Dr. [Su-Ling Yeh](http://epa.psy.ntu.edu.tw/) at National Taiwan University and Dr. [Shulan Hsieh](http://140.116.183.157/) at National Cheng Kung University.
 
 See more in my [CV](https://drive.google.com/file/d/1Bf3AJrVb9N9ufWdFaW4baB1FJwZ81Pea/view?usp=sharing).
-![image](https://github.com/hsinghaolee/hsinghaolee.github.io/assets/29062685/ffe51651-aef6-4e4e-b4e8-de126e04b9c7)

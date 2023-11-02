@@ -20,7 +20,7 @@ Manuscripts in preparation
 
 Publications
 ======
-1.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (*preprint*). Adaptation and exogenous attention interact in the early visual cortex: A TMS study [PDF](http://hsinghaolee.github.io/files/Lee_Fernandez_Carrasco_2023.pdf)
+1.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (*preprint*). Adaptation and exogenous attention interact in the early visual cortex: A TMS study. *bioRxiv*, 2023.10.27.563093. [PDF](http://hsinghaolee.github.io/files/Lee_Fernandez_Carrasco_2023.pdf)
 2.	Chen, Y. T., **Lee, H. H.**, Shih, C. Y., Chen, Z. L., Beh, W. K., Yeh, S. L., & Wu, A. Y. (2022). An effective entropy-assisted mind-wandering detection system with EEG signals of MM-SART Database. *IEEE Journal of Biomedical and Health Informatics, 26*(8), 3649-3660. [PDF](http://hsinghaolee.github.io/files/Chen_etal_2022.pdf)
 3.	**Lee, H. H.**, Chien, S. E., Lin, V., & Yeh, S. L. (2022). Seeing food fast and slow: Arousing pictures and words have reverse priorities in assessing awareness. *Cognition, 225*, 105144. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2022.pdf)
 4.	**Lee, H. H.**, Chen. Z. L., Yeh, S. L., Hsiao, J. H., & Wu, A. Y. (2021). When eyes wander around: Mind-wandering as revealed by eye movement analysis with hidden Markov models. *Sensors, 21*, 7569. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2021.pdf)

@@ -13,21 +13,21 @@ redirect_from:
 Manuscripts in preparation
 ======
 1.	**Lee, H. H.**, Groves, K., Ripollés, P., & Carrasco, M. (*under review*). Audiovisual integration in the McGurk effect is impervious to music training. 
-2.	Cheng, T., Chiu, L., Hunag, L., Lin, Y. T., **Lee, H. H.**, Chen, Y. C., & Yeh, S. L. (*in preparation*). Predictive processing in the second brain: From gut complex to meta-awareness.
-3.	Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., Tsai, A. C. H., & Yeh, S. L. (*in preparation*). Age differences in processing representational momentum for motion sequences as revealed by fMRI.
-4.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
+2.	Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., Tsai, A. C. H., & Yeh, S. L. (*in preparation*). Age differences in processing representational momentum for motion sequences as revealed by fMRI.
+3.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
 
 Publications
 ======
 1.	**Lee, H. H.**, Liu, G. K., Chen, Y. C., & Yeh, S. L. (in press). Exploring quantitative measures in metacognition of emotion. *Scientific Reports.*
-2.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (*preprint*). Adaptation and exogenous attention interact in the early visual cortex: A TMS study. *bioRxiv*, 2023.10.27.563093. [PDF](http://hsinghaolee.github.io/files/Lee_Fernandez_Carrasco_2023.pdf)
-3.	Chen, Y. T., **Lee, H. H.**, Shih, C. Y., Chen, Z. L., Beh, W. K., Yeh, S. L., & Wu, A. Y. (2022). An effective entropy-assisted mind-wandering detection system with EEG signals of MM-SART Database. *IEEE Journal of Biomedical and Health Informatics, 26*(8), 3649-3660. [PDF](http://hsinghaolee.github.io/files/Chen_etal_2022.pdf)
-4.	**Lee, H. H.**, Chien, S. E., Lin, V., & Yeh, S. L. (2022). Seeing food fast and slow: Arousing pictures and words have reverse priorities in assessing awareness. *Cognition, 225*, 105144. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2022.pdf)
-5.	**Lee, H. H.**, Chen. Z. L., Yeh, S. L., Hsiao, J. H., & Wu, A. Y. (2021). When eyes wander around: Mind-wandering as revealed by eye movement analysis with hidden Markov models. *Sensors, 21*, 7569. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2021.pdf)
-6.	**Lee, H. H.**, Tu, Y. C., & Yeh, S. L. (2021) In search of blue-light effects on cognitive control. *Scientific Reports, 11*, 15505. [PDF](http://hsinghaolee.github.io/files/Lee_Tu_Yeh_2021.pdf)
-7.	**Lee, H. H.**, & Yeh, S. L. (2021). Blue-light effects on saccadic eye movements and attentional disengagement. *Attention, Perception, & Psychophysics. 83*, 1713-1728. [PDF](http://hsinghaolee.github.io/files/Lee&Yeh_2021.pdf)
-8.	Chien, S. E., Chu, L., **Lee, H. H.**, Yang, C. C., Lin, F. H., Yang, P. L., Wang, T. M., & Yeh, S. L. (2019). Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots. *ACM Transactions on Human-Robot Interaction (THRI), 8*(2):9. [PDF](http://hsinghaolee.github.io/files/Chien_etal_2019.pdf)
-9.	**Lee, H. H.**, & Hsieh, S. (2017). Resting-state fMRI associated with stop-signal task performance in healthy middle-aged and elderly people. *Frontiers in Psychology, 8*:766. [PDF](http://hsinghaolee.github.io/files/Lee&Hsieh_2017.pdf)
+2.	Cheng, T., Chiu, L., Huang, L., Lin, Y. T., **Lee, H. H.**, Chen, Y. C., & Yeh, S. L. (2023). Predictive processing in the “Second Brain”: From gut complex to meta-awareness. *In Expected Experiences (pp. 170-194)*. Routledge.
+3.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (*preprint*). Adaptation and exogenous attention interact in the early visual cortex: A TMS study. *bioRxiv*, 2023.10.27.563093. [PDF](http://hsinghaolee.github.io/files/Lee_Fernandez_Carrasco_2023.pdf)
+4.	Chen, Y. T., **Lee, H. H.**, Shih, C. Y., Chen, Z. L., Beh, W. K., Yeh, S. L., & Wu, A. Y. (2022). An effective entropy-assisted mind-wandering detection system with EEG signals of MM-SART Database. *IEEE Journal of Biomedical and Health Informatics, 26*(8), 3649-3660. [PDF](http://hsinghaolee.github.io/files/Chen_etal_2022.pdf)
+5.	**Lee, H. H.**, Chien, S. E., Lin, V., & Yeh, S. L. (2022). Seeing food fast and slow: Arousing pictures and words have reverse priorities in assessing awareness. *Cognition, 225*, 105144. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2022.pdf)
+6.	**Lee, H. H.**, Chen. Z. L., Yeh, S. L., Hsiao, J. H., & Wu, A. Y. (2021). When eyes wander around: Mind-wandering as revealed by eye movement analysis with hidden Markov models. *Sensors, 21*, 7569. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2021.pdf)
+7.	**Lee, H. H.**, Tu, Y. C., & Yeh, S. L. (2021) In search of blue-light effects on cognitive control. *Scientific Reports, 11*, 15505. [PDF](http://hsinghaolee.github.io/files/Lee_Tu_Yeh_2021.pdf)
+8.	**Lee, H. H.**, & Yeh, S. L. (2021). Blue-light effects on saccadic eye movements and attentional disengagement. *Attention, Perception, & Psychophysics. 83*, 1713-1728. [PDF](http://hsinghaolee.github.io/files/Lee&Yeh_2021.pdf)
+9.	Chien, S. E., Chu, L., **Lee, H. H.**, Yang, C. C., Lin, F. H., Yang, P. L., Wang, T. M., & Yeh, S. L. (2019). Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots. *ACM Transactions on Human-Robot Interaction (THRI), 8*(2):9. [PDF](http://hsinghaolee.github.io/files/Chien_etal_2019.pdf)
+10.	**Lee, H. H.**, & Hsieh, S. (2017). Resting-state fMRI associated with stop-signal task performance in healthy middle-aged and elderly people. *Frontiers in Psychology, 8*:766. [PDF](http://hsinghaolee.github.io/files/Lee&Hsieh_2017.pdf)
 
 Selected Conference Presentations
 ======

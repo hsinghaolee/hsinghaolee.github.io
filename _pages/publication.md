@@ -12,8 +12,9 @@ redirect_from:
 
 Manuscripts in preparation
 ======
-1.	Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., Tsai, A. C. H., & Yeh, S. L. (*in preparation*). Age differences in processing representational momentum for motion sequences as revealed by fMRI.
-2.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
+1. **Lee, H. H.** & Carrasco, M. (*in preparation*). Visual adaptation is stronger at the horizontal than vertical meridian. 
+2.	Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., Tsai, A. C. H., & Yeh, S. L. (*in preparation*). Age differences in processing representational momentum for motion sequences as revealed by fMRI.
+3.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
 
 Publications
 ======

@@ -18,4 +18,4 @@ Before joining NYU, I worked with Dr. [Su-Ling Yeh](http://epa.psy.ntu.edu.tw/) 
 
 See more in my [CV](http://hsinghaolee.github.io/files/HsingHaoLee_CV_2024.pdf).
 
-Apart from research, I live on Boba and animals. I say Hi to all the dogs on the street, but my favorite is still my dog [Coffee](http://hsinghaolee.github.io/files/Coffee.jpeg), who lives in Taiwan and is 16 years old now!
+Apart from research, I live on Boba and animals. I say Hi to all the dogs on the street, but my favorite is still my dog [Coffee](http://hsinghaolee.github.io/files/Coffee.jpeg), who lives in Taiwan and is 17 years old now!

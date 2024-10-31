@@ -18,7 +18,7 @@ Manuscripts in preparation
 
 Publications
 ======
-1.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (*in press*). Adaptation and exogenous attention interact in the early visual cortex: A TMS study. *iScience*. [biorXiv](http://hsinghaolee.github.io/files/Lee_etal_TMS.pdf)
+1.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (2024). Adaptation and exogenous attention interact in the early visual cortex: A TMS study. *iScience*. 27(11), 111155.[PDF](http://hsinghaolee.github.io/files/LeeFernandezCarrasco2024.pdf)
 2. **Lee, H. H.**, Groves, K., Ripollés, P., & Carrasco, M. (2024). Audiovisual integration in the McGurk effect is impervious to music training. *Scientific Reports, 14,* 3262. [PDF](http://hsinghaolee.github.io/files/Lee_Groves_etal_2024.pdf)
 3.	**Lee, H. H.**, Liu, G. K., Chen, Y. C., & Yeh, S. L. (2024). Exploring quantitative measures in metacognition of emotion. *Scientific Reports, 14,* 1990. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2024.pdf)
 4.	Cheng, T., Chiu, L., Huang, L., Lin, Y. T., **Lee, H. H.**, Chen, Y. C., & Yeh, S. L. (2023). Predictive processing in the “Second Brain”: From gut complex to meta-awareness. *In Expected Experiences (pp. 170-194)*. Routledge.

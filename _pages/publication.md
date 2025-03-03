@@ -13,7 +13,7 @@ redirect_from:
 Manuscripts in preparation
 ======
 1. **Lee, H. H.** & Carrasco, M. (*in preparation*). Stronger visual adaptation at horizontal than vertical meridian: Linking performance with V1 cortical surface area.
-2.	Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L.,& Tsai, A. C. H. (*submitted*). Age-related differences in predicting apparent motion sequences: An fMRI study
+2.	Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (*submitted*). Age-related differences in predicting apparent motion sequences: An fMRI study
 3.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
 
 Publications

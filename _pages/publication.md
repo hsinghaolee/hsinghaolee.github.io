@@ -13,7 +13,7 @@ redirect_from:
 
 Publications
 ======
-1. **Lee, H. H.** & Carrasco, M. (*preprint*). Stronger visual adaptation at horizontal than vertical meridian: Linking performance with V1 cortical surface area. bioRxiv. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco2025.pdf)
+1. **Lee, H. H.** & Carrasco, M. (*preprint*). Stronger visual adaptation at horizontal than vertical meridian: Linking performance with V1 cortical surface area. bioRxiv. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_2025_2.pdf)
 2.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (2024). Adaptation and exogenous attention interact in the early visual cortex: A TMS study, *iScience, 27*(11), 111155. [PDF](http://hsinghaolee.github.io/files/LeeFernandezCarrasco2024.pdf)
 3. **Lee, H. H.**, Groves, K., Ripollés, P., & Carrasco, M. (2024). Audiovisual integration in the McGurk effect is impervious to music training. *Scientific Reports, 14,* 3262. [PDF](http://hsinghaolee.github.io/files/Lee_Groves_etal_2024.pdf)
 4.	**Lee, H. H.**, Liu, G. K., Chen, Y. C., & Yeh, S. L. (2024). Exploring quantitative measures in metacognition of emotion. *Scientific Reports, 14,* 1990. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2024.pdf)

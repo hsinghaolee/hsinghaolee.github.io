@@ -14,7 +14,7 @@ redirect_from:
 Publications
 ======
 1. **Lee, H. H.** & Carrasco, M. (*preprint*). Stronger visual adaptation at horizontal than vertical meridian: Linking performance with V1 cortical surface area. bioRxiv. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_2025_2.pdf)
-2. **Lee, H. H.** (*preprint*) Intrinsically photosensitive retinal ganglion cells (ipRGCs) are more than just non-image-forming functions.
+2. **Lee, H. H.** (*preprint*) Intrinsically photosensitive retinal ganglion cells (ipRGCs) are more than just non-image-forming functions. OSFpreprint. [PDF](http://hsinghaolee.github.io/files/LeeIipRGCs.pdf)
 3.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (2024). Adaptation and exogenous attention interact in the early visual cortex: A TMS study, *iScience, 27*(11), 111155. [PDF](http://hsinghaolee.github.io/files/LeeFernandezCarrasco2024.pdf)
 4. **Lee, H. H.**, Groves, K., Ripollés, P., & Carrasco, M. (2024). Audiovisual integration in the McGurk effect is impervious to music training. *Scientific Reports, 14,* 3262. [PDF](http://hsinghaolee.github.io/files/Lee_Groves_etal_2024.pdf)
 5.	**Lee, H. H.**, Liu, G. K., Chen, Y. C., & Yeh, S. L. (2024). Exploring quantitative measures in metacognition of emotion. *Scientific Reports, 14,* 1990. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2024.pdf)
@@ -29,8 +29,10 @@ Publications
 
 Manuscripts in preparation
 ======
-1.	Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (*submitted*). Age-related differences in predicting apparent motion sequences: An fMRI study
-2.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
+1. Lee, H. H., & Carrasco, M. (*in preparation*). Performance asymmetries are resistant to endogenous attention even after differential adaptation effects.
+2. Chen, Q., Lee, H. H., Hoxha, K., Fernández, A., Hanning, N. M. & Carrasco, M. (*in preparation*). Does human right frontal eye field (rFEF+) play a critical role in exogenous attention? A TMS study.
+3.	Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (*under review*). Age-related differences in predicting apparent motion sequences: An fMRI study
+4.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
 
 Selected Conference Presentations
 ======

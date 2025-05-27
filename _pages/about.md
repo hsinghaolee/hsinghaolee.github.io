@@ -13,10 +13,9 @@ I am a 4th year PhD student at NYU in the [Carrasco Lab](https://wp.nyu.edu/carr
 My primary research interests are **visual attention**, **Color vision**, **Multisensory integration** and **cognitive control**. 
 
 <p> To be specific, I ask questions like:  
-  <br> How does visual attention interact with perception?  
+  <br> How does visual attention interact with perception and its relationship with consciousness?  
   <br> How does color vision influence our cognition and perception?
   <br> How do people combine sensory information across modalities?
-  <br> How do the conscious and unconscious mental processes work?  
   <br> How do people inhibit irrelevant information and do motor control? </p>
 
 

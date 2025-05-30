@@ -14,7 +14,6 @@ My primary research interests are **visual attention**, **color vision**, **mult
 
 <p> To be specific, I ask questions like:  
   <br> How does visual attention interact with perception and its relationship with consciousness?  
-  <br> How does color vision influence our cognition and perception?
   <br> How do people combine sensory information across modalities?
   <br> How do people inhibit irrelevant information and do motor control? </p>
 

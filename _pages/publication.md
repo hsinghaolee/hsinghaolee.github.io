@@ -13,7 +13,7 @@ redirect_from:
 
 Publications
 ======
-1. **Lee, H. H.** & Carrasco, M. (*preprint*). Stronger visual adaptation at horizontal than vertical meridian: Linking performance with V1 cortical surface area. bioRxiv. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_R1_Ms_biorXiv.pdf)
+1. **Lee, H. H.** & Carrasco, M. (*in press*). Stronger visual adaptation at horizontal than vertical meridian: Linking performance with V1 cortical surface area. *Proceedings of the National Academy of Sciences of the United States of America.*. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_R1_Ms_biorXiv.pdf)
 2. **Lee, H. H.** (*preprint*). Intrinsically photosensitive retinal ganglion cells (ipRGCs) are more than just non-image-forming functions. OSFpreprint. [PDF](http://hsinghaolee.github.io/files/Lee_ipRGCs.pdf)
 3.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (2024). Adaptation and exogenous attention interact in the early visual cortex: A TMS study, *iScience, 27*(11), 111155. [PDF](http://hsinghaolee.github.io/files/LeeFernandezCarrasco2024.pdf)
 4. **Lee, H. H.**, Groves, K., Ripollés, P., & Carrasco, M. (2024). Audiovisual integration in the McGurk effect is impervious to music training. *Scientific Reports, 14,* 3262. [PDF](http://hsinghaolee.github.io/files/Lee_Groves_etal_2024.pdf)

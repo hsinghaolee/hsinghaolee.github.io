@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 5th year PhD student at NYU in the [Carrasco Lab](https://wp.nyu.edu/carrascolab/). Currently I am working on the projects investigating the interaction between visual attention and adaptation. 
 
-My primary research interests are **visual attention**, **ㄏonsciousness**,  and **cognitive control**. 
+My primary research interests are **visual attention**, **consciousness**,  and **cognitive control**. 
 
 <p> To be specific, I ask questions like:  
   <br> How does visual attention interact with perception??  

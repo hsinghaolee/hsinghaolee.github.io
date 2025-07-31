@@ -14,7 +14,7 @@ redirect_from:
 Publications
 ======
 1. **Lee, H. H.** & Carrasco, M. (2025). Visual adaptation stronger at horizontal than vertical meridian: Linking performance with V1 cortical surface area. *Proceedings of the National Academy of Sciences of the United States of America, 122*, (29) e2507810122 [PDF](http://hsinghaolee.github.io/files/LeeCarrasco2025.pdf)
-2. **Lee, H. H.** (*in press*). Intrinsically photosensitive retinal ganglion cells and visual processing: ipRGCs are more than just non-image-forming functions. *Frontiers in Neuroscience*. [PDF](http://hsinghaolee.github.io/files/Lee_ipRGCs.pdf)
+2. **Lee, H. H.** (*in press*). Intrinsically photosensitive retinal ganglion cells and visual processing: ipRGCs beyond non-image-forming functions. *Frontiers in Neuroscience*. [PDF](http://hsinghaolee.github.io/files/Lee_ipRGCs.pdf)
 3.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (2024). Adaptation and exogenous attention interact in the early visual cortex: A TMS study, *iScience, 27*(11), 111155. [PDF](http://hsinghaolee.github.io/files/LeeFernandezCarrasco2024.pdf)
 4. **Lee, H. H.**, Groves, K., Ripollés, P., & Carrasco, M. (2024). Audiovisual integration in the McGurk effect is impervious to music training. *Scientific Reports, 14,* 3262. [PDF](http://hsinghaolee.github.io/files/Lee_Groves_etal_2024.pdf)
 5.	**Lee, H. H.**, Liu, G. K., Chen, Y. C., & Yeh, S. L. (2024). Exploring quantitative measures in metacognition of emotion. *Scientific Reports, 14,* 1990. [PDF](http://hsinghaolee.github.io/files/Lee_etal_2024.pdf)

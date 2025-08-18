@@ -13,7 +13,7 @@ I am a 5th year PhD student at NYU in the [Carrasco Lab](https://wp.nyu.edu/carr
 My primary research interests are **visual attention**, **consciousness**,  and **cognitive control**. 
 
 <p> To be specific, I ask questions like:  
-  <br> How does visual attention interact with perception??  
+  <br> How does visual attention interact with perception?
   <br> How do the conscious and unconscious mental processes work?
   <br> ow do people control and inhibit irrelevant information? </p>
 

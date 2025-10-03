@@ -13,7 +13,7 @@ redirect_from:
 
 Publications
 ======
-1.  **Lee, H. H.** & Carrasco, M. (preprint). Polar angle asymmetries persist despite covert spatial attention and differential adaptation. *bioRxiv*. [PDF](http://hsinghaolee.github.io/files/LeeCarrasco_2025biorxiv.pdf)
+1.  **Lee, H. H.** & Carrasco, M. (preprint). Polar angle asymmetries persist despite covert spatial attention and differential adaptation. *bioRxiv*. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_2025biorxiv.pdf)
 2. **Lee, H. H.** & Carrasco, M. (2025). Visual adaptation stronger at horizontal than vertical meridian: Linking performance with V1 cortical surface area. *Proceedings of the National Academy of Sciences of the United States of America, 122*, (29) e2507810122 [PDF](http://hsinghaolee.github.io/files/LeeCarrasco2025.pdf)
 3. **Lee, H. H.** (2025). Intrinsically photosensitive retinal ganglion cells and visual processing: ipRGCs beyond non-image-forming functions. *Frontiers in Neuroscience*, 19:1635101 [PDF](http://hsinghaolee.github.io/files/Lee_2025.pdf)
 4.	**Lee, H. H.**, Fernández, A., & Carrasco, M. (2024). Adaptation and exogenous attention interact in the early visual cortex: A TMS study, *iScience, 27*(11), 111155. [PDF](http://hsinghaolee.github.io/files/LeeFernandezCarrasco2024.pdf)

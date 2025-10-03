@@ -15,7 +15,7 @@ My primary research interests are **visual attention**, **consciousness**,  and 
 <p> To be specific, I ask questions like:  
   <br> How does visual attention interact with perception?
   <br> How do the conscious and unconscious mental processes work?
-  <br> ow do people control and inhibit irrelevant information? </p>
+  <br> How do people control and inhibit irrelevant information? </p>
 
 
 Before joining NYU, I worked with Dr. [Su-Ling Yeh](http://epa.psy.ntu.edu.tw/) at National Taiwan University and Dr. [Shulan Hsieh](http://140.116.183.157/Eindex.html) at National Cheng Kung University. 

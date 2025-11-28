@@ -17,6 +17,7 @@ My primary research interests are **visual attention**, **consciousness**,  and 
   <br> How do the conscious and unconscious mental processes work?
   <br> How do people control and inhibit irrelevant information? </p>
 
+In addition, I also study how different populations interact with technology and how can we improve the user experience by applying my skills in human factors.
 
 Before joining NYU, I worked with Dr. [Su-Ling Yeh](http://epa.psy.ntu.edu.tw/) at National Taiwan University and Dr. [Shulan Hsieh](http://140.116.183.157/Eindex.html) at National Cheng Kung University. 
 

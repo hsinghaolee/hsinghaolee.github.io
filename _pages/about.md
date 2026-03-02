@@ -21,6 +21,6 @@ In addition, I also study how different populations interact with technology and
 
 Before joining NYU, I worked with Dr. [Su-Ling Yeh](http://epa.psy.ntu.edu.tw/) at National Taiwan University and Dr. [Shulan Hsieh](http://140.116.183.157/Eindex.html) at National Cheng Kung University. 
 
-See more in my [CV](http://hsinghaolee.github.io/files/HsingHaoLee_CV_2025.pdf).
+See more in my [CV](http://hsinghaolee.github.io/files/HsingHaoLee_CV_2026.pdf).
 
 Apart from research, I live on Boba and animals. I say Hi to all the dogs on the street, but my favorite is still my dog [Coffee](http://hsinghaolee.github.io/files/Coffee.jpeg).

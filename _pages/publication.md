@@ -30,9 +30,11 @@ Publications
 
 Manuscripts in preparation
 ======
-1. Chen, Q., **Lee, H. H.**, Fernández, A., Hanning, N. M. & Carrasco, M. (*in preparation*). Does human right frontal eye field (rFEF+) play a critical role in exogenous attention? A TMS study.
-2.	Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (*under review*). Age-related differences in predicting apparent motion sequences: An fMRI study
-3.	**Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age differences in neural processing of facial expression predictions.
+1. Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (*under review*). Cortical representation of apparent motion sequences in younger and older Adults: An fMRI study.
+2. Chen, Q., **Lee, H. H.**, Hanning, N. M. & Carrasco, M. (*in preparation*). Transcranial magnetic stimulation to frontal cortex, unlike occipital stimulation, does not disrupt exogenous attention.
+3. **Lee, H. H.** & Carrasco, M. (*in preparation*). The sequential effect of endogenous attention around polar angle.
+4. **Lee, H. H.** & Carrasco, M. (*in preparation*). Does early visual cortex play a causal role in temporal attention? An TMS study.
+5. **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., & Yeh, S. L. (*in preparation*). Age-related differences in facial expression predictions: An fMRI study
 
 Selected Conference Presentations
 ======

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD student at NYU in the [Carrasco Lab](https://wp.nyu.edu/carrascolab/). Currently I am working on the projects investigating the interaction between visual attention and adaptation. 
+I am a PhD student (who just defended my dissertation!) at NYU in the [Carrasco Lab](https://wp.nyu.edu/carrascolab/). Currently I am working on the projects investigating the interaction between visual attention and adaptation. 
 
 My primary research interests are **visual attention**, **consciousness**,  and **cognitive control**. 
 

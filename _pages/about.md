@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher (who just defended my dissertation!) at NYU in the [Carrasco Lab](https://wp.nyu.edu/carrascolab/). Currently I am working on the projects investigating the interaction between visual attention and adaptation. 
+I received my PhD from NYU [Carrasco Lab](https://wp.nyu.edu/carrascolab/), working on the projects investigating the interaction between visual attention and adaptation. I will be joing [Curtis lab](https://www.clayspacelab.com/) as a postdoctoral reseacher starting from 2026 Fall! 
 
 My primary research interests are **visual attention**, **consciousness**,  and **cognitive control**. 
 

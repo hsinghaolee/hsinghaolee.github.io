@@ -13,7 +13,7 @@ redirect_from:
 
 Publications
 ======
-1. **Lee, H. H.** & Carrasco, M. (preprint). Endogenous attention is invariant to sequential effects in performance around the visual field. bioRxiv. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_sequential.pdf)
+1. **Lee, H. H.** & Carrasco, M. (preprint). Endogenous attention is invariant to sequential effects in performance around the visual field. bioRxiv. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_Sequential.pdf)
 2.  **Lee, H. H.** & Carrasco, M. (2026). Covert spatial attention is uniform across cardinal meridians despite differential adaptation. *Journal of Vision, 26*, 15. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_2026.pdf)
 3. Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (*in press*). Cortical representation of apparent motion sequences in younger and older Adults: An fMRI study. *Scientific Reports*.
 4.  Chen, Q., **Lee, H. H.**, Hanning, N. M. & Carrasco, M. (preprint). Transcranial magnetic stimulation to frontal cortex, unlike occipital stimulation, does not disrupt exogenous attention. *bioRxiv*. [PDF](http://hsinghaolee.github.io/files/Chen_etal_2026.pdf)

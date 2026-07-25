@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD from NYU [Carrasco Lab](https://wp.nyu.edu/carrascolab/), working on the projects investigating the interaction between visual attention and adaptation. I will be joing [Curtis lab](https://www.clayspacelab.com/) as a postdoctoral reseacher starting from 2026 Fall! 
+I received my PhD from the [Carrasco Lab](https://wp.nyu.edu/carrascolab/) at NYU, where I investigated the interaction between visual attention and adaptation using psychophysics and neurostimulation (TMS). I will be joining the [Curtis lab](https://www.clayspacelab.com/) as a postdoctoral researcher starting from Fall 2026 to investigate the neural mechanism of visual working memory.
+
+
 
 My primary research interests are **visual attention**, **consciousness**,  and **cognitive control**. 
 

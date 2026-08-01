@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Welcome!
-I a postdoctoral researcher in the [Curtis lab](https://www.clayspacelab.com/) at NYU, investigating the neural mechanism of visual working memory.
+
+I a postdoctoral researcher in the [Curtis lab](https://www.clayspacelab.com/) at NYU, where I investigate the neural mechanism of visual working memory.
 
 
 My primary research interests are **visual attention**, **consciousness**, **cognitive control and working memory**. 

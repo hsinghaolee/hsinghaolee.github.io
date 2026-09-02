@@ -18,6 +18,7 @@ My primary research interests are **visual attention**, **consciousness**, **cog
 <p> To be specific, I ask questions like:  
   <br> How does visual attention interact with perception?
   <br> How do the conscious and unconscious mental processes work?
+  <br> How do top-down factors affect visual working memory representations?
   <br> How do people control and inhibit irrelevant information? </p>
 
 I received my PhD from the [Carrasco Lab](https://wp.nyu.edu/carrascolab/) at NYU, where I investigated the interaction between visual attention and adaptation using psychophysics and neurostimulation (TMS). 

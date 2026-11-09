@@ -13,7 +13,8 @@ redirect_from:
 
 Publications and Preprints
 ======
-1.**Lee, H. H.** & Carrasco, M. (preprint). Does early visual cortex play a causal role in temporal attention? An TMS study. *bioRxiv*. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_TMS2026.pdf)
+
+1. **Lee, H. H.** & Carrasco, M. (preprint). Does early visual cortex play a causal role in temporal attention? An TMS study. *bioRxiv*. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_TMS2026.pdf)
 2. **Lee, H. H.** & Carrasco, M. (preprint). Endogenous attention is invariant to sequential effects in performance around the visual field. *bioRxiv*. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_Sequential.pdf)
 3.  **Lee, H. H.** & Carrasco, M. (2026). Covert spatial attention is uniform across cardinal meridians despite differential adaptation. *Journal of Vision, 26*, 15. [PDF](http://hsinghaolee.github.io/files/Lee&Carrasco_2026.pdf)
 4. Yeh, S. L., Li, S. H., **Lee, H. H.**, Kao, Y. W., Goh, J. O. S., Jingling, L., & Tsai, A. C. H. (2026). Cortical representation of apparent motion sequences in younger and older Adults: An fMRI study. *Scientific Reports, 16*, 26137. [PDF](http://hsinghaolee.github.io/files/Yeh_etal_2026.pdf)

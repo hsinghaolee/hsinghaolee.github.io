@@ -39,8 +39,9 @@ Manuscripts in preparation
 
 Selected Conference Presentations
 ======
-1.	**Lee, H. H.** & Carrasco, M. (2026). Endogenous and exogenous attention remain uniform across cardinal meridians despite differential adaptation. Poster presented at the Annual Meeting of the Vision Sciences Society, Tampa, FL.
-2.	Carrasco, M., Hanning, N. M., Fernández, A., Chen, Q., & **Lee, H. H.** (2026). Cortical double dissociation for endogenous and exogenous covert spatial attention. Talk presented at the Annual Meeting of the Vision Sciences Society, Tampa, FL.
+1.	**Lee, H. H.** & Carrasco, M. (preprint). Does early visual cortex play a causal role in temporal attention? A TMS study. Poster presented at the Annual Meeting of the Society for Neuroscience. Washington, D.C.
+2.	**Lee, H. H.** & Carrasco, M. (2026). Endogenous and exogenous attention remain uniform across cardinal meridians despite differential adaptation. Poster presented at the Annual Meeting of the Vision Sciences Society, Tampa, FL.
+3.	Carrasco, M., Hanning, N. M., Fernández, A., Chen, Q., & **Lee, H. H.** (2026). Cortical double dissociation for endogenous and exogenous covert spatial attention. Talk presented at the Annual Meeting of the Vision Sciences Society, Tampa, FL.
 2. Chen, Q., **Lee, H. H.**, Fernández, A., Hanning, N.M., & Carrasco, M. (2025). Neurostimulation reveals prefrontal cortex plays a central role in endogenous but not exogenous attention. Poster presented at the Annual Meeting of the Society for Neuroscience 2025, San Diego, CA.
 3. Carrasco, M., Chen, Q., **Lee, H. H.**, Fernández, A., & Hanning N. (2025). TMS to the prefrontal cortex disrupts endogenous, but not exogenous, attention. Talk presented at the Annual Meeting of the European Conference on Visual Perception, Mainz, Germany.
 4.	**Lee, H. H.**, & Carrasco, M. (2025). Endogenous attention enhances contrast sensitivity similarly around cardinal meridians despite differential adaptation effects. Poster presented at the Annual Meeting of the Vision Sciences Society, Tampa, FL.
